@@ -3,12 +3,12 @@ Flicker Website
 🎯A platform specifically made for singers for their concerts and tickets and other events acknowledgment Using WordPress
 
 🚀Plugin Used:
-Elementor 
-Elementor Pro
-Elementor Pack Lite-Addons for Elementor
-Elementor Header & Footer Builder
-PRO Elements
-Unlimited Elementor Inner SEctions By BoomDevs
+Elementor ,
+Elementor Pro,
+Elementor Pack Lite-Addons for Elementor,
+Elementor Header & Footer Builder,
+PRO Elements,
+Unlimited Elementor Inner SEctions By BoomDevs,
 Simply Static 
 
 ↗️URL: https://anshikagupta170903.github.io/Flicker/
